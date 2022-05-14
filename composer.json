@@ -1,0 +1,17 @@
+{
+    "name": "getmetavpn/twocheckout",
+    "autoload": {
+        "psr-4": {
+            "GetMetaVpn\\TwoCheckout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "metavpn"
+        }
+    ],
+    "require": {
+      "ext-curl": "*",
+      "ext-json": "*"
+    }
+}
